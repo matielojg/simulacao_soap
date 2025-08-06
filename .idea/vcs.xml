@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/soap-cliente" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/soap-middleware" vcs="Git" />
   </component>
 </project>
